@@ -26,6 +26,7 @@ status-website:
       href: /
     - title: Website
       href: https://www.bloo.io
+  css: "body { font-family: Ubuntu, sans-serif; }"
 
 assignees:
   - chanlito
