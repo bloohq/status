@@ -17,7 +17,7 @@ status-website:
   favicon: https://app.bloo.io/favicon.ico
   logoUrl: https://uploads-ssl.webflow.com/611933498aa1f623c51041de/611933673e9b073fb7b8b9b5_bloo.svg
   themeUrl: https://status.bloo.io/bloo-theme.css
-  customHeadHtml: "<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">"
+  customHeadHtml: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">'
   name: Bloo
   introTitle: "**Bloo** — Teamwork, Made Simple."
   introMessage: "The **simple** & **affordable** project management software that your team will actually use!"
