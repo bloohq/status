@@ -11,26 +11,25 @@ sites:
     url: https://www.bloo.io
   - name: Bloo Community
     url: https://ask.bloo.io
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bloo.io
-  # baseUrl: /your-repo-name
+  favicon: https://app.bloo.io/favicon.ico
   logoUrl: https://uploads-ssl.webflow.com/611933498aa1f623c51041de/611933673e9b073fb7b8b9b5_bloo.svg
+  themeUrl: https://status.bloo.io/bloo-theme.css
+  customHeadHtml: "<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">"
   name: Bloo
-  introTitle: "**Bloo**, the simple & affordable project management software that your team will actually use!"
-  introMessage: "**Work Better, Together.** From the small stuff to the big picture, Bloo organizes work so teams are clear on what to do, why it matters, and how to get it done."
+  introTitle: "**Bloo** — Teamwork, Made Simple."
+  introMessage: "The **simple** & **affordable** project management software that your team will actually use!"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
+
 
 assignees:
   - chanlito
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: "© Bloo, Inc. — Teamwork, Made Simple."
