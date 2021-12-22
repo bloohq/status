@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 103,
-    "timeWeek": 115,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "time": 158,
+    "timeDay": 118,
+    "timeWeek": 120,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 939,
-    "timeWeek": 935,
-    "timeMonth": 1122,
-    "timeYear": 1122,
+    "time": 1105,
+    "timeDay": 905,
+    "timeWeek": 924,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.bloo.io",
     "slug": "bloo-website",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 390,
-    "timeDay": 146,
-    "timeWeek": 188,
-    "timeMonth": 390,
-    "timeYear": 390,
-    "dailyMinutesDown": {
-      "2021-12-21": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 371,
+    "timeDay": 136,
+    "timeWeek": 187,
+    "timeMonth": 371,
+    "timeYear": 371,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bloo Community",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 269,
-    "timeWeek": 504,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 592,
+    "timeDay": 418,
+    "timeWeek": 519,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
