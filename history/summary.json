@@ -58,19 +58,19 @@
     "url": "https://ask.bloo.io",
     "icon": "https://favicons.githubusercontent.com/ask.bloo.io",
     "slug": "bloo-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 8189,
-    "timeWeek": 2525,
-    "timeMonth": 990,
-    "timeYear": 900,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 963,
+    "timeDay": 6632,
+    "timeWeek": 2635,
+    "timeMonth": 1067,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2022-01-18": 0
+      "2022-01-18": 5
     }
   }
 ]
