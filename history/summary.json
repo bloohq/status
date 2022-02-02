@@ -58,7 +58,7 @@
     "url": "https://ask.bloo.io",
     "icon": "https://favicons.githubusercontent.com/ask.bloo.io",
     "slug": "bloo-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 481,
     "timeMonth": 1082,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
