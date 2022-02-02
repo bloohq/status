@@ -4,7 +4,7 @@
     "url": "https://app.bloo.io",
     "icon": "https://favicons.githubusercontent.com/app.bloo.io",
     "slug": "bloo-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 99,
     "timeMonth": 135,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Bloo API",
@@ -59,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/ask.bloo.io",
     "slug": "bloo-community",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 880,
     "timeDay": 1592,
     "timeWeek": 783,
     "timeMonth": 1136,
     "timeYear": 880,
-    "dailyMinutesDown": {
-      "2022-02-02": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
