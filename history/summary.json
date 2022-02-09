@@ -40,7 +40,7 @@
     "url": "https://www.bloo.io",
     "icon": "https://favicons.githubusercontent.com/www.bloo.io",
     "slug": "bloo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 165,
     "timeMonth": 149,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Bloo Community",
