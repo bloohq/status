@@ -4,9 +4,9 @@
     "url": "https://app.bloo.io",
     "icon": "https://favicons.githubusercontent.com/app.bloo.io",
     "slug": "bloo-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 167,
     "timeMonth": 132,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Bloo API",
@@ -42,12 +44,12 @@
     "slug": "bloo-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 206,
-    "timeDay": 181,
+    "timeDay": 233,
     "timeWeek": 166,
     "timeMonth": 153,
     "timeYear": 206,
