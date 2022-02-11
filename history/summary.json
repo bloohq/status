@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/app.bloo.io",
     "slug": "bloo-app",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 142,
-    "timeDay": 200,
-    "timeWeek": 152,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 141,
+    "timeDay": 50,
+    "timeWeek": 148,
     "timeMonth": 129,
-    "timeYear": 142,
-    "dailyMinutesDown": {
-      "2022-02-10": 13
-    }
+    "timeYear": 141,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bloo API",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
-    "timeDay": 750,
-    "timeWeek": 901,
+    "timeDay": 951,
+    "timeWeek": 894,
     "timeMonth": 871,
     "timeYear": 924,
     "dailyMinutesDown": {}
@@ -49,9 +47,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 206,
-    "timeDay": 233,
-    "timeWeek": 166,
-    "timeMonth": 153,
+    "timeDay": 209,
+    "timeWeek": 180,
+    "timeMonth": 155,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2022-02-09": 15
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 1085,
-    "timeWeek": 496,
-    "timeMonth": 1133,
-    "timeYear": 830,
+    "time": 822,
+    "timeDay": 283,
+    "timeWeek": 492,
+    "timeMonth": 1128,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   }
 ]
