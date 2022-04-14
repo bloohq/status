@@ -4,19 +4,19 @@
     "url": "https://app.bloo.io",
     "icon": "https://favicons.githubusercontent.com/app.bloo.io",
     "slug": "bloo-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 44,
-    "timeWeek": 95,
-    "timeMonth": 124,
+    "timeDay": 58,
+    "timeWeek": 92,
+    "timeMonth": 122,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 24
     }
   },
   {
