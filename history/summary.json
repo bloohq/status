@@ -6,15 +6,15 @@
     "slug": "bloo-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 141,
-    "timeDay": 56,
-    "timeWeek": 83,
-    "timeMonth": 120,
-    "timeYear": 141,
+    "time": 142,
+    "timeDay": 306,
+    "timeWeek": 90,
+    "timeMonth": 126,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2022-04-14": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
-    "timeDay": 931,
-    "timeWeek": 856,
-    "timeMonth": 916,
+    "timeDay": 827,
+    "timeWeek": 854,
+    "timeMonth": 913,
     "timeYear": 914,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 193,
-    "timeDay": 230,
-    "timeWeek": 220,
-    "timeMonth": 166,
-    "timeYear": 193,
+    "time": 195,
+    "timeDay": 397,
+    "timeWeek": 233,
+    "timeMonth": 175,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2022-02-09": 15
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
-    "timeDay": 212,
-    "timeWeek": 522,
-    "timeMonth": 396,
+    "timeDay": 650,
+    "timeWeek": 529,
+    "timeMonth": 406,
     "timeYear": 632,
     "dailyMinutesDown": {}
   }
