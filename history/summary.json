@@ -28,27 +28,25 @@
     "slug": "bloo-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
     "timeDay": 790,
     "timeWeek": 820,
     "timeMonth": 886,
     "timeYear": 909,
-    "dailyMinutesDown": {
-      "2022-05-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bloo Website",
     "url": "https://www.bloo.io",
     "icon": "https://favicons.githubusercontent.com/www.bloo.io",
     "slug": "bloo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +56,7 @@
     "timeMonth": 185,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2022-05-30": 0,
       "2022-04-20": 17,
       "2022-02-09": 15
     }
