@@ -15,7 +15,7 @@ sites:
 status-website:
   cname: status.blue.cc
   favicon: https://app.blue.cc/favicon.ico
-  logoUrl: https://uploads-ssl.webflow.com/611933498aa1f623c51041de/611933673e9b073fb7b8b9b5_bloo.svg
+  logoUrl: https://app.blue.cc/icons/android-chrome-144x144.png
   # themeUrl: https://status.blue.cc/bloo.css
   customHeadHtml: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">'
   name: Blue
@@ -32,4 +32,4 @@ assignees:
   - chanlito
 
 i18n:
-  footer: "© Bloo, Inc. — Teamwork, Made Simple."
+  footer: "© Bloo, Inc."
