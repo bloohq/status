@@ -3,29 +3,29 @@ owner: bloohq # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
-  - name: Bloo App
-    url: https://app.bloo.io
-  - name: Bloo API
+  - name: Blue App
+    url: https://app.blue.cc
+  - name: Blue API
     url: https://api.bloo.io
-  - name: Bloo Website
-    url: https://www.bloo.io
-  - name: Bloo Community
-    url: https://ask.bloo.io
+  - name: Blue Website
+    url: https://www.blue.cc
+  - name: Blue Community
+    url: https://ask.blue.cc
 
 status-website:
-  cname: status.bloo.io
-  favicon: https://app.bloo.io/favicon.ico
+  cname: status.blue.cc
+  favicon: https://app.blue.cc/favicon.ico
   logoUrl: https://uploads-ssl.webflow.com/611933498aa1f623c51041de/611933673e9b073fb7b8b9b5_bloo.svg
-  # themeUrl: https://status.bloo.io/bloo.css
+  # themeUrl: https://status.blue.cc/bloo.css
   customHeadHtml: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">'
-  name: Bloo
-  introTitle: "**Bloo** &#183; Teamwork, Made Simple."
+  name: Blue
+  introTitle: "**Blue** &#183; Teamwork, Made Simple."
   introMessage: "The **simple** & **affordable** project management software that your team will actually use!"
   navbar:
     - title: Status
       href: /
     - title: Website
-      href: https://www.bloo.io
+      href: https://www.blue.cc
   css: "body { font-family: Ubuntu, sans-serif; }"
 
 assignees:
