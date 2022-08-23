@@ -58,17 +58,19 @@
     "url": "https://ask.blue.cc",
     "icon": "https://favicons.githubusercontent.com/ask.blue.cc",
     "slug": "blue-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 759,
-    "timeWeek": 523,
-    "timeMonth": 641,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 560,
+    "timeWeek": 502,
+    "timeMonth": 632,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
