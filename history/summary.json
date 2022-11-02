@@ -22,9 +22,9 @@
     "url": "https://api.bloo.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.bloo.io.ico",
     "slug": "blue-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 844,
     "timeMonth": 863,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-02": 0
+    }
   },
   {
     "name": "Blue Website",
