@@ -1,7 +1,7 @@
 url: https://ask.blue.cc
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2022-12-03T23:14:34.696Z
+status: down
+code: 502
+responseTime: 241
+lastUpdated: 2022-12-04T17:11:36.550Z
 startTime: Wed Jul 13 2022 02:17:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
