@@ -1,7 +1,7 @@
 url: https://api.bloo.io
-status: up
-code: 200
-responseTime: 1137
-lastUpdated: 2023-04-01T09:52:49.400Z
+status: down
+code: 502
+responseTime: 1331
+lastUpdated: 2023-04-01T10:22:58.588Z
 startTime: Wed Jul 13 2022 02:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
