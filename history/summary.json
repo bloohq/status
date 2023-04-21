@@ -129,19 +129,19 @@
     "url": "https://www.blue.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.blue.cc.ico",
     "slug": "blue-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 261,
-    "timeWeek": 205,
-    "timeMonth": 171,
+    "timeDay": 198,
+    "timeWeek": 190,
+    "timeMonth": 168,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-21": 17
     }
   },
   {
