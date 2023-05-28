@@ -4,19 +4,19 @@
     "url": "https://app.blue.cc",
     "icon": "https://icons.duckduckgo.com/ip3/app.blue.cc.ico",
     "slug": "blue-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 441,
-    "timeWeek": 352,
+    "timeDay": 414,
+    "timeWeek": 357,
     "timeMonth": 375,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-28": 0
+      "2023-05-28": 4
     }
   },
   {
