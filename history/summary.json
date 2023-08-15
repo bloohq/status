@@ -11,10 +11,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 341,
-    "timeDay": 283,
-    "timeWeek": 285,
-    "timeMonth": 289,
-    "timeYear": 352,
+    "timeDay": 288,
+    "timeWeek": 289,
+    "timeMonth": 286,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2023-08-11": 74
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bloo.io.ico",
     "slug": "blue-api",
     "status": "up",
-    "uptime": "78.15%",
+    "uptime": "78.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "76.24%",
     "time": 872,
-    "timeDay": 458,
-    "timeWeek": 495,
-    "timeMonth": 686,
+    "timeDay": 947,
+    "timeWeek": 539,
+    "timeMonth": 595,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2023-08-11": 74,
@@ -139,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 352,
-    "timeWeek": 251,
-    "timeMonth": 199,
-    "timeYear": 220,
+    "timeDay": 302,
+    "timeWeek": 278,
+    "timeMonth": 205,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-04-21": 17
     }
@@ -159,9 +159,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 723,
-    "timeDay": 408,
-    "timeWeek": 972,
-    "timeMonth": 529,
+    "timeDay": 331,
+    "timeWeek": 985,
+    "timeMonth": 531,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2023-07-27": 20,
